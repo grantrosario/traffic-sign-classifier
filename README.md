@@ -128,9 +128,7 @@ My final model results were:
 * training set accuracy of 99.0
 * validation set accuracy of 95.3
 * test set accuracy of 93.1
-
-
-If an iterative approach was chosen:  
+ 
 
 * **Architecture -** The architecture started as an exact copy of the LeNet architecture from Yann Lecun's 1998 paper on Gradient-Based learning
 * **Improvements -** While the initial architecture actually worked quite well once the data was pre-processed, it was missing some features to increase robustsness and alleviate overfitting.
