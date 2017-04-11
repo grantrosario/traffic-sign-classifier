@@ -49,7 +49,6 @@ print("Number of classes =", n_classes)
 import matplotlib.pyplot as plt
 import random
 # Visualizations will be shown in the notebook.
-%matplotlib inline
 
 
 # generate 10 random data points and show images
@@ -280,7 +279,6 @@ with tf.Session() as sess:
 
 # Reinitialize and re-import if starting a new kernel here
 import matplotlib.pyplot as plt
-%matplotlib inline
 
 import tensorflow as tf
 import numpy as np
